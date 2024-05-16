@@ -7,6 +7,8 @@ public class test0009 {
     public static int trap(int[] height) {
         if (height == null || height.length == 2) {
             System.out.printf("hhh ");
+
+            System.out.printf("第二次 ");
             return 0;
         }
         int result = 0;
