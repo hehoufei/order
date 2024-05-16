@@ -9,8 +9,6 @@ public class test0009 {
             System.out.printf("hhh ");
 
             System.out.printf("第二次 ");
-
-            System.out.printf("第三次 ");
             return 0;
         }
         int result = 0;
